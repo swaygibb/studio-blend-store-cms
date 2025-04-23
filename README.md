@@ -9,6 +9,11 @@ Blend Store CMS is a content management system built using Sanity Studio. It pro
 - Extendable with plugins
 - Built-in support for structured content
 
+![image](https://github.com/user-attachments/assets/3f5e4918-3a0f-43e5-88e6-38d4db03bc8d)
+
+![image](https://github.com/user-attachments/assets/fb19c922-b4c4-4897-bc2e-1b05bc912d25)
+
+
 ## Project Structure
 
 - `schemaTypes/`: Contains schema definitions for products and content
